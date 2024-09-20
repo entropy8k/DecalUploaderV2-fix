@@ -1,5 +1,8 @@
-> [!WARNING]  
-> Roblox has been cracking down on decals a lot harder recently so the OneUploader.py may not work as well as it used to, I'm currently working on trying to find a new way.
+# credits to [Roblox-Thot](https://github.com/Roblox-Thot) and all rights are reserved to her. i do not have any affiliation in this project aside from fixing and adding qol features.
+
+# purpose of this fork
+fixing auth and bugs
+qol and maybe some other stuff on the way??? idk. suggest stuff in my dms (entropy8k on discord)
 
 # DecalUploaderV2
 Rewrite of my other repo [DecalUploader](https://github.com/Roblox-Thot/DecalUploader) but using Roblox's Open Cloud API
